@@ -1,0 +1,14 @@
+var isDone = false;
+console.log(isDone);
+var decimal = 6;
+console.log(decimal);
+var hex = 0xf00d;
+console.log(hex);
+var binary = 10;
+console.log(binary);
+var octal = 484;
+console.log(octal);
+var color = "blue";
+console.log(color);
+color = 'red';
+console.log(color);
